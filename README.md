@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/216dc37a-d755-4caf-95c7-6d809b3b10f1
+
 # ColoringJars (Hackathon Prototype)
 
 Unity‑made demo built in 24 h.
